@@ -64,9 +64,3 @@ README.md
 	•	形態素解析は名詞のみに絞っています。用途に応じて変更可能です。
 	•	Googleトレンドの利用制限に注意しながらご利用ください。
 	•	matplotlibの日本語表示はMacの「Hiragino Sans」を指定しています。Windows等はフォント設定を調整してください。
-
-⸻
-
-ライセンス
-
-MIT License
